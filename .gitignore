@@ -1,0 +1,8 @@
+*.tf
+*.tfplan
+terraform.*
+.terraform
+crash.log
+.envrc
+dist/
+.idea/
